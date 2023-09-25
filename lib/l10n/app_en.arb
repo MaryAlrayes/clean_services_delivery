@@ -1,0 +1,182 @@
+{
+
+"app_name":"Saudi",
+"saudi":"Cleaning Services",
+"deliveryman":"Deliveryman",
+"phone_number":"Phone Number",
+"password":"Password",
+"login":"Login",
+"dont_have_an_account":"Don't have an account?",
+"create_account":"Sign up",
+"copy_right":"All Rights Reserved for Cleaning Services App {year}",
+"@copy_right": {
+  "placeholders":{
+      "year":{
+          "type": "DateTime",
+          "format": "yyyy",
+          "isCustomDateFormat": "true"
+      }
+  }
+},
+"forget_password":"Have you forgotten your password?",
+
+
+"sign_up_welcome":"Welcome... Create an Account and Join us!",
+"name":"Name",
+"relative_phone_number":"Phone Number of Someone close",
+"relative_relation":"Relative Relation",
+"choose_relative_relation":"Choose Relative Relation",
+"relative":"Relative",
+"friend":"Friend",
+"sponsor":"Sponsor",
+"other":"other",
+"nationality":"Nationality",
+"saudi_nationality":"Saudi",
+"non_saudi":"Non-Saudi",
+"choose_nationality":"Choose Nationality",
+"location":"Location",
+"choose_city":"Choose city",
+"vehicle_id":"Vehicle ID",
+"vehicle_type":"Vehicle Type",
+"vehicle_color":"Vehicle Color",
+"vehicle_licenses":"Vehicle License",
+"id_or_passport_for_non_Saudis":"ID \\ or Passport for Non-Saudis",
+"confirm_password":"Confirm Password",
+"pick_file":"Pick File",
+"conditions_terms":"Terms and Conditions",
+"i_agree":"I agree on",
+
+
+"log_out":"Logging Out",
+"confirm_log_out":"Are you sure you want to log out?",
+"yes":"yes",
+"cancel":"cancel",
+
+"home_nav":"Home",
+"ongoing_orders_nav":"Ongoing Orders",
+"log_orders_nav":"Orders Record",
+"statistics_nav":"Statistics",
+"profile_nav":"Profile",
+"settings_nav":"Settings",
+"how_system_works":"System Working Method",
+"profit_cal_method":"Profit Calculation Method",
+"logout_nav":"Log out",
+
+"click_btn_to_work":"Press the button to start working",
+"you_are_offline":"You are currently offline!",
+"you_wont_recieve_new_orders":"You will not be able to receive new orders.",
+"you_can_work_on_ongoing_orders":"You can only work on your ongoing orders",
+"working_loading":"Start working...",
+"stop_working":"Stop Working",
+"pending_orders":"Pending Orders",
+"bring_from_client":"bringing from the client",
+"bring_from_laundry":"bringing from the laundry",
+"order_bring_from_client":"Order to bring from the client",
+"order_bring_form_laundry":"Order to bring from the laundry",
+"orders_bring_from_client":"Orders to bring from the client",
+"orders_bring_from_laundry":"Orders to bring from the laundry",
+"order_bring_from_client_to_laundry":"Order to bring from the client to laundry",
+"order_bring_form_laundry_to_client":"Order to bring from the laundry to client",
+"order":"Order",
+"from":"From",
+"to":"To",
+"laundry_info":"Laundry Information",
+"client_info":"Client Information",
+"city":"City",
+"building_number":"Building No.",
+"floor_number":"Floor No.",
+"move_to_map":"Go to Map",
+"order_details":"Order Details",
+"item_type":"Item Type",
+"item_weight":"Item Weight",
+"heavy_item_weight":"Heavy",
+"light_item_weight":"Light",
+"service_type":"Service Type",
+"counts":"Count",
+"price":"Price",
+"cost":"Cost",
+"commission":"Commission",
+"receivable":"Receivable",
+"total":"Total",
+"call":"call",
+"order_log_details":"Order Details",
+"last_week_orders_record":"Record orders for the last week",
+"collect":"Collect",
+"calculation_is_in_progress":"Calculation is in Progress...",
+"record_empty":"Record is Empty",
+"back":"back",
+"outcome_for_this_week":"The outcome for this week!",
+"value_wiil_be_added_to_proceeds":"This value will be added to the proceeds in your account.",
+
+"edit_profile":"Edit Profile",
+"edit":"Edit",
+"relative_info":"Relative Information",
+"vehicle_info":"Vehicle Information",
+"his_phone_number":"Relative's Phone Number",
+
+"change_language":"Change Language",
+"change_password":"Change Password",
+"language":"Language",
+"old_password":"Old Password",
+"new_password":"New Password",
+"confirm_new_password":"Confirm New Password",
+"done":"done",
+
+
+"money_recieved_this_week_chart_label":"Money received from the customer during the week (cash)",
+"order_number_this_week_label":"The number of orders for this week",
+
+"i_delivered":"I delivered !",
+"i_received":"I received !",
+"i_will_recieve":"I'll receive!",
+
+"pending_laundry_acceptance":"Pending laundry acceptance",
+"pending_acceptance_delivery":"Pending deliveryman reception acceptance",
+"onWay_to_recieve_from_client":"Being brought from client",
+"onWay_to_deliver_to_laundry":"Being brought to laundry",
+"pre_processing":"Pre-processing",
+"processing":"Processing",
+"ready_to_deliver":"Ready to be delivered",
+"pending_acceptance_from_delivery_to_recieve_from_laundry":"Pending deliveryman deliver acceptance",
+"onWay_to_recieve_from_laundry":"Being brought from laundry",
+"onWay_to_deliver_to_client":"Being brought to client",
+"recieved":"Done",
+"you_must_enter_your_phone":"You must enter your phone number",
+"you_must_enter_your_password":"You must enter your password",
+"phone_or_password_not_correct":"Phone or password is not valid",
+
+
+"monday":"Monday",
+"tuesday":"Tuesday",
+"wednesday":"Wednesday",
+"thuresday":"Thursday",
+"friday":"Friday",
+"saturday":"Saturday",
+"sunday":"Sunday",
+
+"saudi_currency":"Saudi Riyal",
+"saudi_currency_abb":"SR",
+
+"custom_date_time":"{my_date}",
+"@custom_date_time":{
+ "placeholders":{
+ "my_date":{
+     "type": "DateTime",
+     "format": "EE dd/MM/y - hh:mm a",
+     "isCustomDateFormat": "true"
+ }
+ }
+},
+
+"custom_date":"{date}",
+"@custom_date":{
+     "placeholders":{
+     "date":{
+         "type": "DateTime",
+         "format": "d/MM/y",
+         "isCustomDateFormat": "true"
+     }
+  }
+}
+
+}

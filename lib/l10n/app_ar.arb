@@ -1,0 +1,179 @@
+{
+
+"app_name":"خدمات التنظيف",
+"saudi":"السعودية",
+"deliveryman":"المندوب",
+"phone_number":"رقم الهاتف المحمول",
+"password":"كلمة السر",
+"login":"تسجيل الدخول",
+"dont_have_an_account":"ليس لديك حساب؟",
+"create_account":"إنشاء حساب",
+"copy_right":"جميع الحقوق محفوظة لتطبيق خدمات التنظيف {year}",
+"@copy_right": {
+  "placeholders":{
+      "year":{
+          "type": "DateTime",
+          "format": "yyyy",
+          "isCustomDateFormat": "true"
+      }
+  }
+},
+"forget_password":"هل نسيت كلمة المرور؟",
+
+"sign_up_welcome":"أهلا وسهلا... قم بإنشاء حساب وانضم إلينا!",
+"name":"الاسم",
+"relative_phone_number":"رقم الهاتف لشخص قريب",
+"relative_relation":"صلة القرابة",
+"choose_relative_relation":"اختر صلة القرابة",
+"relative":"قريب",
+"friend":"صديق",
+"sponsor":"كفيل",
+"other":"غيره",
+"nationality":"جنسيتك",
+"saudi_nationality":"سعودي",
+"non_saudi":"غير سعودي",
+"choose_nationality":"اختر الجنسية",
+"location":"عنوان الإقامة",
+"choose_city":"اختر مدينتك",
+"vehicle_id":"رقم المركبة",
+"vehicle_type":"نوع المركبة",
+"vehicle_color":"لون المركبة",
+"vehicle_licenses":"رخص المركبة",
+"id_or_passport_for_non_Saudis":"الهوية \\ أو جواز السفر لغير السعوديين",
+"confirm_password":"تأكيد كلمة السر",
+"pick_file":"اختر ملف",
+"conditions_terms":"الشروط و الأحكام",
+"i_agree":"أوافق على",
+
+
+"log_out":"تسجيل الخروج",
+"confirm_log_out":"هل أنت متأكد من أنك تريد تسجيل الخروج؟",
+"yes":"نعم",
+"cancel":"إغلاق",
+
+"home_nav":"الرئيسية",
+"ongoing_orders_nav":"الطلبات الجارية",
+"log_orders_nav":"سجل الطلبات",
+"statistics_nav":"الاحصائيات",
+"profile_nav":"الملف الشخصي",
+"settings_nav":"الاعدادات",
+"how_system_works":"طريقة عمل النظام",
+"profit_cal_method":"طريقة حساب الأرباح",
+"logout_nav":"تسجيل الخروج",
+
+"click_btn_to_work":"اضغط على الزر لبدء العمل",
+"you_are_offline":"أنت حاليا متوقف عن العمل!",
+"you_wont_recieve_new_orders":"لن تتمكن من استقبال طلبات جديدة",
+"you_can_work_on_ongoing_orders":"يمكنك العمل فقط على طلباتك الجارية",
+"working_loading":"جاري بدء العمل...",
+"stop_working":"إيقاف العمل",
+"pending_orders":"الطلبات المعلقة",
+"bring_from_client":"إحضار من العميل",
+"bring_from_laundry":"إحضار من المغسلة",
+"order_bring_from_client":"طلب إحضار من العميل",
+"order_bring_form_laundry":"طلب إحضار من المغسلة",
+"orders_bring_from_client":"طلبات إحضار من العميل",
+"orders_bring_from_laundry":"طلبات إحضار من المغسلة",
+"order_bring_from_client_to_laundry":"طلب إحضار من العميل للمغسلة",
+"order_bring_form_laundry_to_client":"طلب إحضار من المغسلة للعميل",
+"order":"طلب",
+"from":"من",
+"to":"إلى",
+"laundry_info":"معلومات المغسل",
+"client_info":"معلومات العميل",
+"city":"المدينة",
+"building_number":"رقم البناء",
+"floor_number":"رقم الطابق",
+"move_to_map":"الانتقال للخريطة",
+"order_details":"تفاصيل الطلب",
+"item_type":"نوع القطعة",
+"item_weight":"حجم القطعة",
+"heavy_item_weight":"ثقيلة",
+"light_item_weight":"خفيفة",
+"service_type":"نوع الخدمة",
+"counts":"عدد القطع",
+"price":"السعر",
+"cost":"التكلفة",
+"commission":"العمولة",
+"receivable":"الذمة",
+"total":"المجموع الكلي",
+"call":"اتصال",
+"order_log_details":"تفاصيل طلب",
+"last_week_orders_record":"سجل طلبات اخر أسبوع",
+"collect":"تحصيل",
+"calculation_is_in_progress":"جاري حساب المحصلة ...",
+"record_empty":"السجل فارغ",
+"back":"رجوع",
+"outcome_for_this_week":"المحصلة النهائية لهذا الأسبوع!",
+"value_wiil_be_added_to_proceeds":"ستضاف هذه القيمة الى المحصلة في حسابك",
+
+"edit_profile":"تعديل الملف الشخصي",
+"edit":"تعديل",
+"relative_info":"معلومات القريب",
+"vehicle_info":"معلومات المركبة",
+"his_phone_number":"رقم هاتفه",
+
+"change_language":"تغيير اللغة",
+"change_password":"تغيير كلمة المرور",
+"language":"اللغة",
+"old_password":"كلمة السر القديمة",
+"new_password":"كلمة السر الجديدة",
+"confirm_new_password":"تأكيد كلمة المرور الجديدة",
+"done":"تم",
+
+
+"money_recieved_this_week_chart_label":"الأموال المقبوضة من العميل خلال الأسبوع (الكاش)",
+"order_number_this_week_label":"عدد الطلبات لهذا الأسبوع",
+
+"i_delivered":"لقد قمت بالتسليم !",
+"i_received":"لقد استلمت !",
+"i_will_recieve":"أنا سأستلم!",
+
+"pending_laundry_acceptance":"قيد انتظار قبول المغسلة",
+"pending_acceptance_delivery":"قيد انتظار موافقة استلام المندوب",
+"onWay_to_recieve_from_client":"قيد الاحضار من العميل",
+"onWay_to_deliver_to_laundry":"قيد الاحضار للمغسلة",
+"pre_processing":"قيد بدء التنفيذ",
+"processing":"قيد التنفيذ",
+"ready_to_deliver":"جاهز للتسليم",
+"pending_acceptance_from_delivery_to_recieve_from_laundry":"قيد انتظار موافقة التسليم للمندوب",
+"onWay_to_recieve_from_laundry":"قيد الاحضار من المغسلة",
+"onWay_to_deliver_to_client":"قيد الاحضار للعميل",
+"recieved":"تم التسليم",
+"you_must_enter_your_phone":"عليك ادخال رقمك",
+"you_must_enter_your_password":"عليك ادخال كلمة السر",
+"phone_or_password_not_correct":"رقم الهاتف أو كلمة السر غير صحيحة",
+
+
+"monday":"الاثنين",
+"tuesday":"الثلاثاء",
+"wednesday":"الأربعاء",
+"thuresday":"الخميس",
+"friday":"الجمعة",
+"saturday":"السبت",
+"sunday":"الأحد",
+
+"saudi_currency":"ريال سعودي",
+"saudi_currency_abb":"ر.س",
+"custom_date_time":"{my_date}",
+"@custom_date_time":{
+ "placeholders":{
+ "my_date":{
+     "type": "DateTime",
+     "format": "EE dd/MM/y - hh:mm a",
+     "isCustomDateFormat": "true"
+ }
+ }
+},
+
+"custom_date":"{date}",
+"@custom_date":{
+     "placeholders":{
+     "date":{
+         "type": "DateTime",
+         "format": "d/MM/y",
+         "isCustomDateFormat": "true"
+     }
+  }
+}
+}

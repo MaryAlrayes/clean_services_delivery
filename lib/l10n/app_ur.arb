@@ -1,0 +1,180 @@
+{
+
+"app_name":"صفائی کی خدمات",
+"saudi":"سعودی",
+"deliveryman":"قاصد",
+"phone_number":"فون نمبر",
+"password":"پاس ورڈ",
+"login":"لاگ ان کریں",
+"dont_have_an_account":"اکاؤنٹ نہیں ہے؟",
+"create_account":"سائن اپ",
+"copy_right":"کلیننگ سروسز ایپ کے جملہ حقوق محفوظ ہیں۔ {year}",
+"@copy_right": {
+  "placeholders":{
+      "year":{
+          "type": "DateTime",
+          "format": "yyyy",
+          "isCustomDateFormat": "true"
+      }
+  }
+},
+"forget_password":"کیا آپ اپنا پاس ورڈ بھول گئے ہیں؟",
+
+"sign_up_welcome":"خوش آمدید... ایک اکاؤنٹ بنائیں اور ہمارے ساتھ شامل ہوں!",
+"name":"نام",
+"relative_phone_number":"کسی قریبی شخص کا فون نمبر",
+"relative_relation":"رشتہ دار رشتہ",
+"choose_relative_relation":"رشتہ دار رشتہ کا انتخاب کریں۔",
+"relative":"رشتہ دار",
+"friend":"دوست",
+"sponsor":"سپانسر",
+"other":"دوسرے",
+"nationality":"قومیت",
+"saudi_nationality":"سعودی",
+"non_saudi":"غیر سعودی",
+"choose_nationality":"قومیت کا انتخاب کریں۔",
+"location":"مقام",
+"choose_city":"شہر کا انتخاب کریں۔",
+"vehicle_id":"گاڑی کی شناخت",
+"vehicle_type":"گاڑی کی قسم",
+"vehicle_color":"گاڑی کا رنگ",
+"vehicle_licenses":"گاڑی کا لائسنس",
+"id_or_passport_for_non_Saudis":"ID \\ یا غیر سعودیوں کے لیے پاسپورٹ",
+"confirm_password":"پاس ورڈ کی تصدیق کریں۔",
+"pick_file":"فائل چنیں۔",
+"conditions_terms":"شرائط و ضوابط",
+"i_agree":"میں متفق ہوں۔",
+
+
+"log_out":"لاگ آؤٹ ہو رہا ہے۔",
+"confirm_log_out":"کیا آپ واقعی لاگ آؤٹ کرنا چاہتے ہیں؟",
+"yes":"جی ہاں",
+"cancel":"منسوخ",
+
+"home_nav":"گھر",
+"ongoing_orders_nav":"جاری احکامات",
+"log_orders_nav":"آرڈر ریکارڈ",
+"statistics_nav":"شماریات",
+"profile_nav":"پروفائل",
+"settings_nav":"ترتیبات",
+"how_system_works":"سسٹم کے کام کرنے کا طریقہ",
+"profit_cal_method":"منافع کے حساب کتاب کا طریقہ",
+"logout_nav":"منافع کے حساب کتاب کا طریقہ",
+
+"click_btn_to_work":"کام شروع کرنے کے لیے بٹن دبائیں۔",
+"you_are_offline":"آپ فی الحال آف لائن ہیں!",
+"you_wont_recieve_new_orders":"آپ نئے آرڈرز وصول نہیں کر سکیں گے۔",
+"you_can_work_on_ongoing_orders":"آپ صرف اپنے جاری آرڈرز پر کام کر سکتے ہیں۔",
+"working_loading":"کام شروع کرو...",
+"stop_working":"کام کرنا چھوڑو",
+"pending_orders":"زیر التواء احکامات",
+"bring_from_client":"کلائنٹ سے لانا",
+"bring_from_laundry":"لانڈری سے لانا",
+"order_bring_from_client":"کلائنٹ سے لانے کا حکم",
+"order_bring_form_laundry":"لانڈری سے لانے کا حکم دیں۔",
+"orders_bring_from_client":"کلائنٹ سے لانے کا حکم",
+"orders_bring_from_laundry":"لانڈری سے لانے کا حکم",
+"order_bring_from_client_to_laundry":"کلائنٹ سے لانڈری تک لانے کا حکم",
+"order_bring_form_laundry_to_client":"لانڈری سے کلائنٹ تک لانے کا آرڈر",
+"order":"ترتیب",
+"from":"سے",
+"to":"کو",
+"laundry_info":"لانڈری کی معلومات",
+"client_info":"کلائنٹ کی معلومات",
+"city":"شہر",
+"building_number":"بلڈنگ نمبر",
+"floor_number":"منزل نمبر",
+"move_to_map":"نقشہ پر جائیں۔",
+"order_details":"آرڈر کی تفصیلات",
+"item_type":"چیز کی قسم",
+"item_weight":"چیز کا وزن",
+"heavy_item_weight":"بھاری",
+"light_item_weight":"روشنی",
+"service_type":"سروس کی قسم",
+"counts":"شمار",
+"price":"قیمت",
+"cost":"لاگت",
+"commission":"کمیشن",
+"receivable":"قابل وصول",
+"total":"کل",
+"call":"کال",
+"order_log_details":"آرڈر کی تفصیلات",
+"last_week_orders_record":"پچھلے ہفتے کے آرڈرز ریکارڈ کریں۔",
+"collect":"جمع کرنا",
+"calculation_is_in_progress":"حساب کتاب جاری ہے...",
+"record_empty":"ریکارڈ خالی ہے۔",
+"back":"پیچھے",
+"outcome_for_this_week":"اس ہفتے کا نتیجہ!",
+"value_wiil_be_added_to_proceeds":"Tیہ قیمت آپ کے اکاؤنٹ میں ہونے والی آمدنی میں شامل کر دی جائے گی۔",
+
+"edit_profile":"پروفائل میں ترمیم کریں",
+"edit":"ترمیم",
+"relative_info":"متعلقہ معلومات",
+"vehicle_info":"گاڑی کی معلومات",
+"his_phone_number":"رشتہ دار کا فون نمبر",
+
+"change_language":"زبان تبدیل کریں",
+"change_password":"پاس ورڈ تبدیل کریں",
+"language":"زبان",
+"old_password":"پرانا پاسورڈ",
+"new_password":"نیا پاس ورڈ",
+"confirm_new_password":"نئے پاس ورڈ کی توثیق کریں",
+"done":"ہو گیا",
+
+
+"money_recieved_this_week_chart_label":"ہفتے کے دوران گاہک سے موصول ہونے والی رقم (نقد)",
+"order_number_this_week_label":"اس ہفتے کے آرڈرز کی تعداد",
+
+"i_delivered":"میں نے پہنچایا!",
+"i_received":"میں نے وصول کیا !",
+"i_will_recieve":"میں وصول کروں گا!",
+
+"pending_laundry_acceptance":"لانڈری کی منظوری زیر التواء ہے۔",
+"pending_acceptance_delivery":"زیر التواء ڈیلیوری مین استقبالیہ قبولیت",
+"onWay_to_recieve_from_client":"کلائنٹ سے لایا جا رہا ہے",
+"onWay_to_deliver_to_laundry":"کپڑے دھونے کے لیے لایا جا رہا ہے۔",
+"pre_processing":"پری پروسیسنگ",
+"processing":"پروسیسنگ",
+"ready_to_deliver":"پہنچانے کے لیے تیار ہے۔",
+"pending_acceptance_from_delivery_to_recieve_from_laundry":"زیر التواء ڈیلیوری مین ڈیلیوری قبولیت",
+"onWay_to_recieve_from_laundry":"لانڈری سے لایا جا رہا ہے۔",
+"onWay_to_deliver_to_client":"کلائنٹ کے پاس لایا جا رہا ہے۔",
+"recieved":"ہو گیا",
+"you_must_enter_your_phone":"آپ کو اپنا فون نمبر درج کرنا ہوگا۔",
+"you_must_enter_your_password":"آپ کو اپنا پاس ورڈ درج کرنا ہوگا۔",
+"phone_or_password_not_correct":"فون یا پاس ورڈ درست نہیں ہے۔",
+
+"monday":"پیر",
+"tuesday":"منگل",
+"wednesday":"بدھ",
+"thuresday":"جمعرات",
+"friday":"جمعہ",
+"saturday":"ہفتہ",
+"sunday":"اتوار",
+
+"saudi_currency":"سعودی ریال",
+"saudi_currency_abb":"SR",
+
+"custom_date_time":"{my_date}",
+"@custom_date_time":{
+ "placeholders":{
+ "my_date":{
+     "type": "DateTime",
+     "format": "EE dd/MM/y - hh:mm a",
+     "isCustomDateFormat": "true"
+ }
+ }
+},
+
+"custom_date":"{date}",
+"@custom_date":{
+     "placeholders":{
+     "date":{
+         "type": "DateTime",
+         "format": "d/MM/y",
+         "isCustomDateFormat": "true"
+     }
+  }
+}
+
+}

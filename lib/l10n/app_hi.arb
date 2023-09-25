@@ -1,0 +1,182 @@
+{
+
+"app_name":"सफाई सेवा",
+"saudi":"सऊदी",
+"deliveryman":"डिलीवरी मैन",
+"phone_number":"फ़ोन नंबर",
+"password":"पासवर्ड",
+"login":"लॉग इन करें",
+"dont_have_an_account":"खाता नहीं है?",
+"create_account":"साइन अप करें",
+"copy_right":"सफाई सेवा ऐप के लिए सर्वाधिकार सुरक्षित {year}",
+"@copy_right": {
+  "placeholders":{
+      "year":{
+          "type": "DateTime",
+          "format": "yyyy",
+          "isCustomDateFormat": "true"
+      }
+  }
+},
+"forget_password":"क्या तुम अपना पासवर्ड भूल गए हो?",
+
+
+"sign_up_welcome":"स्वागत है... एक खाता बनाएं और हमसे जुड़ें!",
+"name":"नाम",
+"relative_phone_number":"किसी करीबी का फोन नंबर",
+"relative_relation":"सापेक्ष संबंध",
+"choose_relative_relation":"सापेक्ष संबंध चुनें",
+"relative":"रिश्तेदार",
+"friend":"दोस्त",
+"sponsor":"प्रायोजक",
+"other":"अन्य",
+"nationality":"राष्ट्रीयता",
+"saudi_nationality":"सऊदी",
+"non_saudi":"गैर सऊदी",
+"choose_nationality":"राष्ट्रीयता चुनें",
+"location":"स्थान",
+"choose_city":"शहर चुनें",
+"vehicle_id":"वाहन आईडी",
+"vehicle_type":"वाहन का प्रकार",
+"vehicle_color":"वाहन का रंग",
+"vehicle_licenses":"वाहन लाइसेंस",
+"id_or_passport_for_non_Saudis":"गैर-सऊदी के लिए आईडी \\ या पासपोर्ट",
+"confirm_password":"पासवर्ड की पुष्टि कीजिये",
+"pick_file":"फ़ाइल चुनें",
+"conditions_terms":"नियम और शर्तें",
+"i_agree":"मैं सहमत हूँ",
+
+
+"log_out":"लॉग आउट कर रहा हूं",
+"confirm_log_out":"क्या आप लॉग आउट करना चाहते हैं?",
+"yes":"हां",
+"cancel":"रद्द करना",
+
+"home_nav":"घर",
+"ongoing_orders_nav":"जारी आदेश",
+"log_orders_nav":"आदेश रिकॉर्ड",
+"statistics_nav":"आंकड़े",
+"profile_nav":"प्रोफ़ाइल",
+"settings_nav":"समायोजन",
+"how_system_works":"सिस्टम वर्किंग मेथड",
+"profit_cal_method":"लाभ गणना पद्धति",
+"logout_nav":"लॉग आउट",
+
+"click_btn_to_work":"काम शुरू करने के लिए बटन दबाएं",
+"you_are_offline":"आप वर्तमान में ऑफ़लाइन हैं!",
+"you_wont_recieve_new_orders":"आप नए आदेश प्राप्त नहीं कर पाएंगे।",
+"you_can_work_on_ongoing_orders":"आप केवल अपने चल रहे आदेशों पर ही काम कर सकते हैं",
+"working_loading":"काम शुरू...",
+"stop_working":"काम करना बंद करें",
+"pending_orders":"विचारधीन आदेश",
+"bring_from_client":"ग्राहक से लाना",
+"bring_from_laundry":"कपड़े धोने से लाना",
+"order_bring_from_client":"ग्राहक से लाने का आदेश",
+"order_bring_form_laundry":"कपड़े धोने से लाने का आदेश",
+"orders_bring_from_client":"ग्राहक से लाने का आदेश",
+"orders_bring_from_laundry":"कपड़े धोने से लाने का आदेश",
+"order_bring_from_client_to_laundry":"ग्राहक से कपड़े धोने के लिए लाने का आदेश",
+"order_bring_form_laundry_to_client":"कपड़े धोने से ग्राहक को लाने का आदेश",
+"order":"आदेश",
+"from":"से",
+"to":"प्रति",
+"laundry_info":"कपड़े धोने की जानकारी",
+"client_info":"क्लाइंट की सूचना",
+"city":"शहर",
+"building_number":"भवन का नंबर",
+"floor_number":"मंजिल संख्या",
+"move_to_map":"मैप पर जाएं",
+"order_details":"ऑर्डर का विवरण",
+"item_type":"वस्तु परक",
+"item_weight":"आइटम का वजन",
+"heavy_item_weight":"अधिक वज़नदार",
+"light_item_weight":"रोशनी",
+"service_type":"सेवा प्रकार",
+"counts":"गिनती करना",
+"price":"कीमत",
+"cost":"लागत",
+"commission":"आयोग",
+"receivable":"प्राप्य",
+"total":"कुल",
+"call":"बुलाना",
+"order_log_details":"ऑर्डर का विवरण",
+"last_week_orders_record":"पिछले सप्ताह के लिए रिकॉर्ड आदेश",
+"collect":"इकट्ठा करना",
+"calculation_is_in_progress":"गणना जारी है...",
+"record_empty":"रिकॉर्ड खाली है",
+"back":"पीछे",
+"outcome_for_this_week":"इस सप्ताह के लिए परिणाम!",
+"value_wiil_be_added_to_proceeds":"यह मूल्य आपके खाते की आय में जोड़ दिया जाएगा।",
+
+"edit_profile":"प्रोफ़ाइल संपादित करें",
+"edit":"संपादन करना",
+"relative_info":"सापेक्ष जानकारी",
+"vehicle_info":"वाहन की जानकारी",
+"his_phone_number":"रिश्तेदार का फोन नंबर",
+
+"change_language":"भाषा बदलो",
+"change_password":"पासवर्ड बदलें",
+"language":"भाषा",
+"old_password":"पुराना पासवर्ड",
+"new_password":"नया पासवर्ड",
+"confirm_new_password":"नए पासवर्ड की पुष्टि करें",
+"done":"किया हुआ",
+
+
+"money_recieved_this_week_chart_label":"सप्ताह के दौरान ग्राहक से प्राप्त धन (नकद)",
+"order_number_this_week_label":"इस सप्ताह के लिए आदेशों की संख्या",
+
+"i_delivered":"मैं ने डिलीवर किया !",
+"i_received":"मैंने प्राप्त किया !",
+"i_will_recieve":"मैं प्राप्त करूँगा!",
+
+"pending_laundry_acceptance":"लंबित लॉन्ड्री स्वीकृति",
+"pending_acceptance_delivery":"लंबित डिलीवरीमैन रिसेप्शन स्वीकृति",
+"onWay_to_recieve_from_client":"क्लाइंट से लाया जा रहा है",
+"onWay_to_deliver_to_laundry":"कपड़े धोने के लिए लाया जा रहा है",
+"pre_processing":"पूर्व प्रसंस्करण",
+"processing":"प्रसंस्करण",
+"ready_to_deliver":"पहुंचाने के लिए तैयार है",
+"pending_acceptance_from_delivery_to_recieve_from_laundry":"लंबित वितरणकर्ता स्वीकृति प्रदान करता है",
+"onWay_to_recieve_from_laundry":"कपड़े धोने से लाया जा रहा है",
+"onWay_to_deliver_to_client":"क्लाइंट के पास लाया जा रहा है",
+"recieved":"पूर्ण",
+"you_must_enter_your_phone":"आपको अपना फोन नंबर दर्ज करना होगा",
+"you_must_enter_your_password":"आपको अपना पासवर्ड दर्ज करना होगा",
+"phone_or_password_not_correct":"फोन या पासवर्ड मान्य नहीं है",
+
+
+"monday":"सोमवार",
+"tuesday":"मंगलवार",
+"wednesday":"बुधवार",
+"thuresday":"गुरुवार",
+"friday":"शुक्रवार",
+"saturday":"शनिवार",
+"sunday":"रविवार",
+
+"saudi_currency":"सऊदी रियाल",
+"saudi_currency_abb":"SR",
+
+"custom_date_time":"{my_date}",
+"@custom_date_time":{
+ "placeholders":{
+ "my_date":{
+     "type": "DateTime",
+     "format": "EE dd/MM/y - hh:mm a",
+     "isCustomDateFormat": "true"
+ }
+ }
+},
+
+"custom_date":"{date}",
+"@custom_date":{
+     "placeholders":{
+     "date":{
+         "type": "DateTime",
+         "format": "d/MM/y",
+         "isCustomDateFormat": "true"
+     }
+  }
+}
+
+}
